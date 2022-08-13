@@ -1,5 +1,6 @@
-##Note: This repository is for studying purpose. Not try to deploy it to Heroku. Your account will be deleted.
-###This usage is viloating Heroku's ToS. 
+# Note: This repository is for studying purpose. 
+# Not try to deploy it to Heroku. Your account will be deleted.
+# This usage is viloating Heroku's ToS. 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 # VNC Server ( Virtual Network Computing ) on Heroku
